@@ -5,11 +5,11 @@ Requires at least: 1.5
 Tested up to: 2.9.2
 Stable tag: 0.2
 
-Converts Cyrillic characters in post title to Latin characters.
+Converts Cyrillic characters in post slugs to Latin characters.
 
 == Description ==
 
-Converts Cyrillic characters in post title to Latin characters. Very useful for Russian-speaking users of WordPress.
+Converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress.
 You can use this plugin for creating human-readable links.
 
 Thanks to Alexander Shilyaev for the idea.
