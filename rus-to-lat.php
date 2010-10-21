@@ -2,7 +2,7 @@
 /*
 Plugin Name: RusToLat
 Plugin URI: http://blog.zcore.ru/
-Description: This plugin converts Cyrillic characters in post title to Latin characters. Very useful for Russian-speaking users of WordPress. You can use this plugin for creating human-readable links. Thanks to Alexander Shilyaev for the idea. Send your suggestions and critics to <a href="mailto:skorobogatov@gmail.com">skorobogatov@gmail.com</a>.
+Description: This plugin converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress. You can use this plugin for creating human-readable links. Thanks to Alexander Shilyaev for the idea. Send your suggestions and critics to <a href="mailto:skorobogatov@gmail.com">skorobogatov@gmail.com</a>.
 Author: Anton Skorobogatov
 Author URI: http://blog.zcore.ru/
 Version: 0.1
