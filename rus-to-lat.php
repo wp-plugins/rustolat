@@ -5,7 +5,7 @@ Plugin URI: http://mywordpress.ru/plugins/rustolat/
 Description: This plugin converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress. You can use this plugin for creating human-readable links. Thanks to Alexander Shilyaev for the idea. Send your suggestions and critics to <a href="mailto:skorobogatov@gmail.com">skorobogatov@gmail.com</a>.
 Author: Anton Skorobogatov <skorobogatov@gmail.com>
 Contributor: Andrey Serebryakov <saahov@gmail.com>
-Contributor: Sergey Biryukov <npocmop@gmail.com>
+Contributor: Sergey Biryukov <sergeybiryukov.ru@gmail.com>
 Author URI: http://skorobogatov.ru/
 Version: 0.3
 */ 
@@ -26,7 +26,7 @@ $gost = array(
    "с"=>"s","т"=>"t","у"=>"u","ф"=>"f","х"=>"kh",
    "ц"=>"c","ч"=>"ch","ш"=>"sh","щ"=>"shh","ъ"=>"",
    "ы"=>"y","ь"=>"","э"=>"eh","ю"=>"yu","я"=>"ya",
-   "—"=>"-", "«"=>"", "»"=>"", "…"=>""
+   "—"=>"-","«"=>"","»"=>"","…"=>""
   );
 
 $iso = array(
@@ -45,7 +45,7 @@ $iso = array(
    "с"=>"s","т"=>"t","у"=>"u","ф"=>"f","х"=>"x",
    "ц"=>"c","ч"=>"ch","ш"=>"sh","щ"=>"shh","ъ"=>"",
    "ы"=>"y","ь"=>"","э"=>"e","ю"=>"yu","я"=>"ya",
-   "—"=>"-", "«"=>"", "»"=>"", "…"=>""
+   "—"=>"-","«"=>"","»"=>"","…"=>""
   );
  
 function sanitize_title_with_translit($title) {
