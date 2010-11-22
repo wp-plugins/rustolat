@@ -9,7 +9,7 @@ Converts Cyrillic characters in post slugs to Latin characters.
 
 == Description ==
 
-This plugin is available for reference only. Its functionality has been replaced and extended by [Cyr-To-Lat](http://wordpress.org/extend/plugins/cyr2lat/).
+**This plugin is available for reference only. Its functionality has been replaced and extended by [Cyr-To-Lat](http://wordpress.org/extend/plugins/cyr2lat/).**
 
 Converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress.
 You can use this plugin for creating human-readable links.
