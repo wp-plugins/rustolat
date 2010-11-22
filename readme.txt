@@ -1,5 +1,5 @@
 === Rus-To-Lat ===
-Contributors: Anton Skorobogatov, Andrey Serebryakov
+Contributors: Anton Skorobogatov, Andrey Serebryakov, SergeyBiryukov
 Tags: l10n, translations, transliteration, slugs, russian, rustolat
 Requires at least: 1.5
 Tested up to: 2.9.2
@@ -10,6 +10,8 @@ Converts Cyrillic characters in post slugs to Latin characters.
 == Description ==
 
 **This plugin is available for reference only. Its functionality has been replaced and extended by [Cyr-To-Lat](http://wordpress.org/extend/plugins/cyr2lat/).**
+
+**The original author of this plugin is Anton Skorobogatov, who left us in 2007. I decided to make it available through the Plugin Browser/Installer and to take care of it as best as I could. I take no credit for its creation.**
 
 Converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress.
 You can use this plugin for creating human-readable links.
