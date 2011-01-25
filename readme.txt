@@ -2,7 +2,7 @@
 Contributors: Anton Skorobogatov, Andrey Serebryakov, SergeyBiryukov
 Tags: l10n, translations, transliteration, slugs, russian, rustolat
 Requires at least: 1.5
-Tested up to: 3.0.4
+Tested up to: 2.2.3
 Stable tag: 0.3
 
 Converts Cyrillic characters in post slugs to Latin characters.
