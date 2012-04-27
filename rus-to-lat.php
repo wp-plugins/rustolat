@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RusToLat
-Plugin URI: http://mywordpress.ru/plugins/rustolat/
+Plugin URI: http://wordpress.org/extend/plugins/rustolat/
 Description: This plugin converts Cyrillic characters in post slugs to Latin characters. Very useful for Russian-speaking users of WordPress. You can use this plugin for creating human-readable links. Thanks to Alexander Shilyaev for the idea. Send your suggestions and critics to <a href="mailto:skorobogatov@gmail.com">skorobogatov@gmail.com</a>.
 Author: Anton Skorobogatov <skorobogatov@gmail.com>
 Contributor: Andrey Serebryakov <saahov@gmail.com>
