@@ -95,7 +95,7 @@ function rtl_options_page() {
 }
 
 function rtl_add_menu() {
-		add_options_page('RusToLat', 'RusToLat', 8, __FILE__, 'rtl_options_page');
+		add_options_page('RusToLat', 'RusToLat', 'edit_pages', __FILE__, 'rtl_options_page');
 }
 
 add_action('admin_menu', 'rtl_add_menu');
